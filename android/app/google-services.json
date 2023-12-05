@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138712146587",
+    "project_id": "pharmacy-dac69",
+    "storage_bucket": "pharmacy-dac69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138712146587:android:240950f5e33019e025dc3e",
+        "android_client_info": {
+          "package_name": "com.pharmacy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArdnFr5xjUz2z2TMEHNSfbSRy8Pi8H8HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
